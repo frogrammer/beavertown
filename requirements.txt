@@ -1,0 +1,6 @@
+dask
+dask_cloudprovider[azure]
+fsspec
+netCDF4
+h5netcdf
+xarray
